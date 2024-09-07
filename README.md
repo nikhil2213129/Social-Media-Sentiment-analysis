@@ -28,4 +28,16 @@ The project requires the following Python libraries:
 - `nltk` (for natural language processing)
 - `matplotlib`
 - `seaborn`
+## Modeling Approach
+The notebook covers the following steps for sentiment analysis:
 
+Data Preprocessing: Clean the text data, including removing stopwords, punctuation, and performing tokenization.
+Text Vectorization: Convert text into numerical form using techniques like TF-IDF or word embeddings (e.g., Word2Vec, GloVe).
+Model Selection: Train and test different machine learning models, such as:
+Logistic Regression
+Support Vector Machines (SVM)
+Naive Bayes
+Model Evaluation: Evaluate the performance of the models using metrics like accuracy, precision, recall, and F1-score.
+
+## Contributors
+Nikhil
